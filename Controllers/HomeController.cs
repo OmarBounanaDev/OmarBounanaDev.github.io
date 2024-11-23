@@ -18,6 +18,26 @@ namespace PersonalWebApp.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Projects()
+        {
+            return View();
+        }
+
+        public IActionResult Skills()
+        {
+            return View();
+        }
+
+        public IActionResult EmploymentHistory()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
